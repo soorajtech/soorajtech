@@ -1,14 +1,18 @@
 
  <a href="https://soorajsk.tech" target="_blank">
         <img src="banner.gif" alt="Clickable Image" href="https://soorajsk.tech">
-<h1 style="color: #44AEFB;">Hi I'm SOORAJ SK </h1>
-<hr>
- 
+</a>
+
+ <!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=21&pause=1000&width=435&lines=Hey%2C+I+am+SOORAJ SK;Full-Stack+Developer" alt="Typing SVG" />
+</a>
+
 ## 👨🏻‍💻 About Me
-- Hi, I'm a tech enthusiast and college student with a passion for creativity and problem-solving. I am a self-taught developer
+- Hi, I'm a tech enthusiast and college student with a passion for creativity and problem-solving. I am a self-taught Developer
 - Founder@ [Trogencoders](https://trogencoders.com)
 - 🌱 I’m currently learning
-- 💬 Ask me about Cyber Security, Programming 
+- 💬 Ask me about **Cybersecurity**, **Web Developing** and **Linux**.
 - 📄 Know more about me at [soorajsk.tech](https://soorajsk.tech)
 - 📫 How to reach me: [soorajsk.contact@gmail.com](mailto:soorajsk.contact@gmail.com)
 
@@ -18,12 +22,25 @@
   [![jiecord](https://discord.c99.nl/widget/theme-2/804648283343028234.png)](https://dsc.gg/soorajsk) <br />
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
+**Languages:**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**Tools & Platforms:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ## 🔗 Links
 - Visit my website at [soorajsk.tech](https://soorajsk.tech)
 - Connect with me on [Instagram](https://www.instagram.com/soorajsk.tech/)
 - Check out my projects on [GitHub](https://github.com/soorajtech)
   
+## 💰 Support Me
+
+[![BuyMeABeer]<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="soorajsk" data-color="#FFDD00" data-emoji="🍺"  data-font="Comic" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>)
