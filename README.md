@@ -1,6 +1,7 @@
 
- <a href="https://soorajsk.tech" target="_blank">
-        <img src="banner.gif" alt="Clickable Image" href="https://soorajsk.tech">
+<!-- Banner -->
+<a href="https://soorajsk.tech" target="_blank">
+    <img src="banner.gif" alt="Mark's Banner">
 </a>
 
  <!-- Typing animation -->
