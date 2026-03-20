@@ -12,8 +12,7 @@
 ## 👨🏻‍💻 About Me
 - Hi, I'm a tech enthusiast and college student with a passion for creativity and problem-solving. I am a self-taught Developer
 - Founder@ [Trogencoders](https://trogencoders.com)
-- 🌱 I’m currently learning
-- 💬 Ask me about **Cybersecurity**, **Web Developing** and **Linux**.
+- 💬 Ask me about **Web Developing**, **Cybersecurity** and **Linux**.
 - 📄 Know more about me at [soorajsk.tech](https://soorajsk.tech)
 - 📫 How to reach me: [soorajsk.contact@gmail.com](mailto:soorajsk.contact@gmail.com)
 
